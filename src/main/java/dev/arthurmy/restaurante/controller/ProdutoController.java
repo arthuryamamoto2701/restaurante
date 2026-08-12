@@ -1,4 +1,4 @@
-package dev.controller;
+package dev.arthurmy.restaurante.controller;
 
 import dev.arthurmy.restaurante.dto.ProdutoRequest;
 import dev.arthurmy.restaurante.dto.ProdutoResponse;
